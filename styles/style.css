@@ -55,17 +55,45 @@ header {
 
 /* Start main section */
 
-.section1{
+.section1 {
     display: flex;
     justify-content: space-between;
 }
 
-li::before{
+.sectin1-image {
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.section1-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 20px;
+    width: 288px;
+    height: 94px;
+}
+
+.section1-description {
+    color: #444343;
+    width: 416px;
+    height: 104px;
+}
+
+.section1-description-point {
+    color: #444343;
+}
+
+li::before {
     content: "\2713";
     color: #16D887;
 }
-li{
+
+li {
     list-style: none;
-    
 }
-    
+
+.section1-div{
+    margin-top: 340px;
+    margin-right: 320px;
+}
