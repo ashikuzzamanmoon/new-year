@@ -93,7 +93,54 @@ li {
     list-style: none;
 }
 
-.section1-div{
+.section1-div {
     margin-top: 340px;
     margin-right: 320px;
+}
+
+/* section 2 start */
+.my-plans {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.web {
+    width: 300px;
+    height: 197px;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 15px;
+}
+
+.web-development {
+    color: #151414;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.web-description {
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+}
+
+.all-plans {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+
 }
