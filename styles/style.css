@@ -46,7 +46,6 @@ header {
     color: #FFFFFF;
     font-weight: 600;
     font-size: 20px;
-
     margin-left: 1350px;
     margin-right: 230px;
     margin-top: 20px;
@@ -88,6 +87,7 @@ li::before {
     content: "\2713";
     color: #16D887;
 }
+
 
 li {
     list-style: none;
