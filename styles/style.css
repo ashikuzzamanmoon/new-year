@@ -81,6 +81,7 @@ header {
 
 .section1-description-point {
     color: #444343;
+    padding-left: 0px;
 }
 
 li::before {
