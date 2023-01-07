@@ -127,6 +127,8 @@ li {
     line-height: 35px;
 }
 
+
+
 .web-description {
     color: #737272;
     font-weight: 500;
@@ -143,4 +145,127 @@ li {
     margin-top: 30px;
     margin-bottom: 100px;
 
+}
+
+/* section 3 start */
+
+.watch-image {
+    display: block;
+    margin-left: 300px;
+    margin-right: 230px;
+    padding-bottom: 150px;
+
+}
+
+.gradient-image {
+    height: 300px;
+    background-image: linear-gradient(to right, rgba(255, 99, 71, 0.8), rgba(255, 0, 0, 0)), url(../images/watch.png);
+    background-repeat: no-repeat;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    border-radius: 8px;
+
+}
+
+
+.section3-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding-bottom: 15px;
+    padding-top: 35px;
+    width: 459px;
+    height: 94px;
+    margin-left: 50px;
+
+}
+
+.call-now {
+    padding-bottom: 15px;
+    padding-top: 35px;
+    width: 459px;
+    height: 94px;
+    margin-left: 50px;
+}
+
+
+.footer-btn {
+    width: 160px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    text-align: center;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+}
+
+
+/* footer */
+.footer-main-section {
+    background: #151414;
+    width: 100%;
+}
+
+.future {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-left: 200px;
+    padding-top: 100px;
+}
+
+.footer-main-section {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-description {
+    color: #FFFFFF;
+    margin-left: 200px;
+    padding-top: 15px;
+    padding-right: 700px;
+    padding-bottom: 15px;
+}
+
+.social-icon {
+    margin-left: 200px;
+    margin-top: 5px;
+    margin-bottom: 130px;
+}
+
+.fb {
+    margin-right: 10px;
+}
+
+.twitter {
+    margin-right: 10px;
+}
+
+.subscribe {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 25px;
+
+}
+
+
+.footer-section2 {
+    margin-top: 100px;
+    margin-right: 230px;
+}
+
+.email {
+    margin-bottom: 15px;
+    width: 325px;
+    height: 64px;
+    background-color: #151414;
+    border-radius: 8px;
+    border-color: #FFFFFF;
+    color: #F3F3F3;
+    font-size: 18px;
+    padding-left: 20px;
 }
